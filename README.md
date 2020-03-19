@@ -5,7 +5,9 @@
 1. Run in terminal
     - `jest -v`
 
-    to check if the framework is installed, if not run
+    to check if the framework is installed
+     
+    if not, run
     - `npm i --save-dev jest`
     
     or 
